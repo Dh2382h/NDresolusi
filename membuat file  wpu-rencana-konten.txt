@@ -2,7 +2,9 @@ Rencana Konten WPU
 -JAVASCIPT
 *es6 
 *framework javascript
+^vue   
 -dasar struktur data
 - PHP FRAMEWORK
+  ^laravel
 - Interview  
 - vlogs 
